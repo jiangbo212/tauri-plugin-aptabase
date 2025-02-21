@@ -7,7 +7,7 @@ authors = ["Guilherme Oenning"]
 edition = "2021"
 rust-version = "1.70"
 readme = "README.md"
-repository = "https://github.com/aptabase/tauri-plugin-aptabase"
+repository = "https://github.com/jiangbo212/tauri-plugin-aptabase"
 exclude = ["/examples", "/webview-dist", "/webview-src", "/node_modules"]
 links = "tauri-plugin-aptabase"
 
